@@ -6,6 +6,7 @@ Blockbuster
 Requerimiento Funcionales:
     - Las peliculas deben tener caracterisiticas como :
         - Titulo
+        - Portada(s)
         - Fecha de lanzamiento (Dia en cines)
         - Director
         - Reparto
